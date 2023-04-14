@@ -1,0 +1,19 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santty04/movies.git"
+  },
+  "author": "@santty04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santty04/movies/issues"
+  },
+  "homepage": "https://github.com/santty04/movies#readme"
+}
